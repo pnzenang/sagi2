@@ -78,7 +78,7 @@ const Wrapper = styled.section`
     place-items: center;
     margin-bottom: 1rem;
     border-radius: 50%;
-    background: var(--primary-500);
+    background: var(--primary-300);
     color: var(--clr-primary-1);
     svg {
       font-size: 2rem;
