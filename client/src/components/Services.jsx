@@ -62,7 +62,7 @@ const Wrapper = styled.section`
     gap: 2.5rem;
   }
   .service {
-    background: var(--primary-400);
+    background: var(--primary-600);
     text-align: center;
     padding: 2.5rem 2rem;
     border-radius: var(--radius);
@@ -78,7 +78,7 @@ const Wrapper = styled.section`
     place-items: center;
     margin-bottom: 1rem;
     border-radius: 50%;
-    background: var(--primary-100);
+    background: var(--primary-300);
     color: var(--clr-primary-1);
     svg {
       font-size: 2rem;
