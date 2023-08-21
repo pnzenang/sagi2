@@ -54,7 +54,7 @@ const Wrapper = styled.section`
   p {
     margin-bottom: 0;
     line-height: 1.8;
-    color: var(--primary-500);
+    color: var(--primary-600);
   }
   .services-center {
     margin-top: 4rem;
