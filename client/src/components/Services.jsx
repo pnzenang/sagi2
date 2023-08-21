@@ -62,7 +62,7 @@ const Wrapper = styled.section`
     gap: 2.5rem;
   }
   .service {
-    background: var(--primary-800);
+    background: var(--primary-400);
     text-align: center;
     padding: 2.5rem 2rem;
     border-radius: var(--radius);
